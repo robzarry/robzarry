@@ -6,7 +6,7 @@ When on land, I'm in Newport, Rhode Island
 
 When not, I'm on [s/v Vibrant](http:svvibrant.com)
 
-I did a thing called [CodeMontana](https://www.youtube.com/watch?v=mzNUCKMZQoo)
+I love technology and education, so I did a thing called [CodeMontana](https://www.youtube.com/watch?v=mzNUCKMZQoo)
 <!--
 **robzarry/robzarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
