@@ -4,7 +4,7 @@ I'm fascinated by people, art, food and technology.
 
 When on land, I'm in Newport, Rhode Island
 
-When not, I'm on [s/v Vibrant] (http:svvibrant.com)
+When not, I'm on [s/v Vibrant] (http:svvibrant.com).
 
 <!--
 **robzarry/robzarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
